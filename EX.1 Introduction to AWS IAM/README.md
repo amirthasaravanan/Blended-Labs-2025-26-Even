@@ -66,6 +66,7 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name: AMIRTHA VARSHINI M
+**Name:** AMIRTHA VARSHINI M
+
 **Course:** Introduction to Cloud Computing  
 
